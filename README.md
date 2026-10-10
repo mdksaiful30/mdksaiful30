@@ -28,7 +28,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 👨‍💻 About Me
 
