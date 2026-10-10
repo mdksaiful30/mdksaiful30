@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20Laravel%20%20%7C%20Vue%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=17&descColor=F8FAFC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Flutter&descAlignY=56&descSize=17&descColor=F8FAFC" alt="Header Banner" />
 
 </div>
 
@@ -33,7 +31,6 @@
 ## 👨‍💻 About Me
 
 </div>
-<div align="left">
 
 ```text
 Name        : Md. Kamruzzaman
@@ -48,7 +45,6 @@ I am a results-oriented **Full-Stack Software Engineer** specializing in modern 
 Whether designing relational database schemas, engineering secure authentication flows, or integrating high-throughput REST APIs, I emphasize clean architecture, maintainability, and end-user performance.
 
 ---
-</div>
 
 <div align="center">
 
@@ -252,7 +248,7 @@ Whether designing relational database schemas, engineering secure authentication
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdksaiful30&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=EC4899" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdksaiful30&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -279,65 +275,4 @@ Whether designing relational database schemas, engineering secure authentication
 
 <br/>
 
-`Laravel 10/11` `PHP 8.x` `Laravel Sanctum` `RESTful API Architecture` `Eloquent ORM` `Database Migrations` `Seeders & Factories` `Service & Repository Patterns` `Middleware Pipeline` `Authentication & Authorization` `MySQL Optimization`
-
-</details>
-
-<details>
-<summary><b>Frontend Systems (Vue.js & Tailwind)</b></summary>
-
-<br/>
-
-`Vue 3` `Composition API` `Tailwind CSS` `Vite` `Axios` `Single Page Applications (SPA)` `Component-Driven Architecture` `Reactive State` `Responsive UI/UX`
-
-</details>
-
-<details>
-<summary><b>Mobile Development (Flutter & Dart)</b></summary>
-
-<br/>
-
-`Flutter SDK` `Dart` `Provider` `Dio Client` `JSON Serialization` `Custom Widgets` `Async Programming` `Shared Preferences` `Responsive Layouts` `Cross-Platform Deployment`
-
-</details>
-
-<details>
-<summary><b>Database & DevOps Tooling</b></summary>
-
-<br/>
-
-`MySQL Workbench` `Laragon Environment` `Git Version Control` `GitHub Repositories` `Postman API Testing` `VS Code Workflows` `Android Studio Emulator`
-
-</details>
-
----
-
-<div align="center">
-
-## 📬 Connect With Me
-
-<a href="https://github.com/mdksaiful30">
-<img src="https://img.shields.io/badge/GitHub-mdksaiful30-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Motto
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Consistency+beats+motivation.;Keep+learning.;Keep+building.;Keep+improving.;Small+steps+every+day+create+big+results." alt="Motto" />
-
-</div>
-
----
-
-<div align="center">
-
-*Thank you for visiting my profile.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:0EA5E9&height=160&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Improving&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer Banner" />
-
-</div>
+`Laravel 10/11` `PHP 8.x` `Laravel Sanctum` `RESTful API Architecture` `Eloquent
