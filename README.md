@@ -31,11 +31,13 @@
 </div>
 
 ---
+
 Name        : Md. Kamruzzaman
 Focus       : Full-Stack Web & Mobile Application Development
 Main Stack  : Laravel, PHP, Vue.js, Tailwind CSS, Flutter, Dart, MySQL
 Interest    : RESTful API Architecture, Clean Architecture, Reactive Frontends
 Goal        : Build scalable, reliable, and user-centric software solutions
+
 ---
 
 I am a passionate **Mobile App Developer** with a strong interest in **full-stack application development**.  
