@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20Laravel%20%20%7C%20Vue%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=17&descColor=F8FAFC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Flutter&descAlignY=56&descSize=17&descColor=F8FAFC" alt="Header Banner" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+MD.+KAMRUZZAMAN;Full-Stack+Mobile+Developer;Flutter+Mobile+Application+Developer;Laravel+Backend+Developer;Vue+Tailwind+Developer;Building+real-world+applications+with+clean+architecture;Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+MD.+KAMRUZZAMAN;Full-Stack+Web+%26+Mobile+Developer;Laravel+%26+PHP+Backend+Architect;Vue.js+%26+Tailwind+CSS+Engineer;Flutter+Mobile+Application+Developer;Building+robust%2C+production-ready+software+systems;Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" alt="Typing SVG" />
 
 </div>
 
@@ -16,90 +16,90 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Mobile%20Development-Flutter-38BDF8?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-Spring%20Boot-22C55E?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack-Mobile%20Apps-A855F7?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=HoeunRaksa&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=mdksaiful30&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
-
-
-<div align="center">
-
-## About Me
-
-</div>
-
-
-```text
-Name        : Md. Kamruzzaman
-Focus       : Full-Stack Web & Mobile Application Development
-Main Stack  : Laravel, PHP, Vue.js, Tailwind CSS, Flutter, Dart, MySQL
-Interest    : Full-Stack Mobile Development, RESTful API Architecture, Clean Architecture, Reactive Frontends
-Goal        : Build scalable, reliable, and user-centric software solutions
-```
-
-I am a passionate **Mobile App Developer** with a strong interest in **full-stack application development**.  
-My main focus is building modern mobile applications using **Flutter**, while also developing backend systems with **Spring Boot**, **Laravel**, and **ASP.NET Core**.
-
-I enjoy working on real-world projects that include authentication, REST API integration, payment flows, cart systems, order management, user profiles, file uploads, and clean backend architecture.
 
 ---
 
 <div align="center">
 
-## Tech Stack
+## 👨‍💻 About Me
 
 </div>
 
-### Mobile Development
+```text
+Name        : Md. Kamruzzaman
+Role        : Full-Stack Web & Cross-Platform Mobile Developer
+Core Stack  : Laravel, PHP, Vue.js, Tailwind CSS, Flutter, Dart, MySQL
+Focus       : RESTful API Engineering, Reactive Frontends, Clean Architecture
+Philosophy  : Design with precision, write clean code, build for scale
+```
+
+I am a results-oriented **Full-Stack Software Engineer** specializing in modern web ecosystems and cross-platform mobile solutions. My core workflow revolves around building reliable backend architectures with **Laravel & PHP**, designing interactive and responsive frontends with **Vue.js & Tailwind CSS**, and delivering performant mobile experiences using **Flutter & Dart**.
+
+Whether designing relational database schemas, engineering secure authentication flows, or integrating high-throughput REST APIs, I emphasize clean architecture, maintainability, and end-user performance.
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tooling
+
+</div>
+
+### Backend Engineering
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel%20Sanctum-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eloquent%20ORM-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-22C55E?style=for-the-badge"/>
+</p>
+
+### Frontend Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### Mobile App Development
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Riverpod-42A5F5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Provider-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GoRouter-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dio-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dio%20%2F%20HTTP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
-### Backend Development
+### Databases & Developer Tools
 
 <p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-DC2626?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laragon-0E7490?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0284C7?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 <div align="center">
 
-## Featured Projects
+## 🚀 Featured Architecture & Projects
 
 </div>
 
@@ -107,49 +107,34 @@ I enjoy working on real-world projects that include authentication, REST API int
 <tr>
 <td width="50%" valign="top">
 
-### ShopFlow
+### 🏢 Enterprise Management Portal
 
-**Full-stack mobile shopping application**
+**Scalable web platform with granular role-based authorization**
 
-**Tech Stack:**  
-`Flutter` `Riverpod` `Spring Boot` `MySQL` `JWT` `REST API`
+**Stack:** `Laravel` `Vue.js` `Tailwind CSS` `MySQL`
 
-**Key Features**
-
-- JWT authentication
-- Email OTP verification
-- Product catalog
-- Category filtering
-- Cart and checkout flow
-- Location management
-- Order management
-- Payment integration
-- Image upload
-- User profile
-- Favorites system
-- Owner product listing
-- Clean REST API structure
+**Key Highlights:**
+- Multi-tier role permissions and session management
+- Dynamic Vue.js admin dashboards with real-time UI states
+- Automated transaction records and data exports
+- Optimized database indexing and Eloquent query caching
+- Fully responsive design engineered with Tailwind CSS
 
 </td>
 <td width="50%" valign="top">
 
-### Furniture E-Commerce App
+### 📱 Cross-Platform Mobile Client
 
-**Mobile shopping application with payment integration**
+**High-performance Android client with backend sync**
 
-**Tech Stack:**  
-`Flutter` `Provider` `Laravel` `MySQL`
+**Stack:** `Flutter` `Dart` `REST API` `MySQL`
 
-**Key Features**
-
-- Product listing
-- Cart functionality
-- Checkout process
-- QR payment integration
-- Order-status polling
-- Backend API integration
-- Responsive mobile UI
-- Payment verification flow
+**Key Highlights:**
+- Fluid material design interface across diverse screen densities
+- Dio HTTP client layer with automated token interceptors
+- Local offline data persistence with asynchronous sync
+- Secure user session handling and OTP verification flows
+- Clean state separation for performance and testability
 
 </td>
 </tr>
@@ -157,40 +142,32 @@ I enjoy working on real-world projects that include authentication, REST API int
 <tr>
 <td width="50%" valign="top">
 
-### Flower Store API
+### ⚡ Secure RESTful API Gateway
 
-**Backend REST API project**
+**Centralized backend service providing REST interfaces**
 
-**Tech Stack:**  
-`ASP.NET Core` `C#` `MySQL` `Swagger`
+**Stack:** `Laravel` `PHP` `Sanctum` `Postman`
 
-**Key Features**
-
-- REST API development
-- Image upload system
-- Swagger documentation
-- Entity Framework Core
-- MySQL database connection
-- Clean backend structure
+**Key Highlights:**
+- Stateless authentication leveraging Laravel Sanctum
+- Strict resource-level validation and response transformations
+- Structured JSON payloads designed for high-throughput mobile/web clients
+- File upload handling and media storage abstraction
 
 </td>
 <td width="50%" valign="top">
 
-### Education Management Platform
+### 📊 Operations & Fund Management App
 
-**School management platform**
+**Data-driven tracking system for administrative workflows**
 
-**Tech Stack:**  
-`ReactJS` `TailwindCSS` `Laravel` `MySQL`
+**Stack:** `Laravel` `MySQL` `AppSheet` `JavaScript`
 
-**Key Features**
-
-- Admin, teacher, and student portals
-- Attendance management
-- Assignment management
-- GPA grading system
-- REST API backend
-- Responsive dashboard UI
+**Key Highlights:**
+- Relational schema handling member records and ledgers
+- Automated calculation pipelines and monthly statements
+- Administrative controls for member approval and audit logging
+- Integration between low-code rapid views and custom backends
 
 </td>
 </tr>
@@ -200,7 +177,7 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 <div align="center">
 
-## What I Can Build
+## 🧩 Architectural Capabilities
 
 </div>
 
@@ -208,42 +185,32 @@ I enjoy working on real-world projects that include authentication, REST API int
 <tr>
 <td width="50%" valign="top">
 
-### Mobile Application Features
+### Backend & Database Systems
 
-| Feature | Status |
+| Capability | Mastery |
 |---|---|
-| Flutter UI implementation | Completed |
-| Responsive mobile layout | Completed |
-| Provider / Riverpod state management | Completed |
-| REST API integration with Dio | Completed |
-| JWT token handling | Completed |
-| Login, register, and OTP verification | Completed |
-| Cart and checkout system | Completed |
-| QR payment integration | Completed |
-| Image upload and user profile | Completed |
-| Search, filtering, and favorites | Completed |
-| GoRouter navigation | Completed |
-| SharedPreferences local storage | Completed |
+| RESTful API Design & Endpoints | Complete |
+| Laravel Sanctum Token Authentication | Complete |
+| Role-Based Access Control (RBAC) | Complete |
+| MySQL Schema Design & Normalization | Complete |
+| Eloquent Relationship Optimization | Complete |
+| Media / File Storage Pipelines | Complete |
+| Form Request Validation & Sanitization | Complete |
 
 </td>
 <td width="50%" valign="top">
 
-### Backend Application Features
+### Frontend & Mobile Engineering
 
-| Feature | Status |
+| Capability | Mastery |
 |---|---|
-| REST API development | Completed |
-| JWT authentication | Completed |
-| Spring Security | Completed |
-| Email OTP verification | Completed |
-| Role-based authorization | Completed |
-| File and image upload API | Completed |
-| Product and category management | Completed |
-| Cart and order management | Completed |
-| Payment processing API | Completed |
-| Pagination and filtering | Completed |
-| MySQL database design | Completed |
-| ASP.NET Core + Entity Framework | Completed |
+| Cross-Platform Flutter UI Implementation | Complete |
+| Single Page Applications (Vue.js) | Complete |
+| Mobile State Management (Provider) | Complete |
+| Responsive Layouts (Tailwind CSS) | Complete |
+| Asynchronous REST Integration (Dio / Axios) | Complete |
+| Persistent Token Storage & Route Guards | Complete |
+| Clean UI Components & Reusability | Complete |
 
 </td>
 </tr>
@@ -253,41 +220,35 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 <div align="center">
 
-## Currently Learning
+## 📈 Learning Roadmap & Targets
 
 </div>
 
-| Technology | Category | Status |
-|:---:|:---:|:---:|
-| Docker | DevOps | In Progress |
-| Redis | Backend Caching | In Progress |
-| Kafka | Event Streaming | In Progress |
-| Microservices | Architecture | In Progress |
-| GitHub Actions | CI/CD | In Progress |
-| JUnit + Mockito | Testing | In Progress |
-| Testcontainers | Testing | In Progress |
-| Prometheus + Grafana | Monitoring | In Progress |
-| Cloud Deployment | Infrastructure | In Progress |
-| Clean Architecture | Architecture | Improving |
-| System Design | Architecture | Improving |
+| Focus Area | Domain | Status |
+|:---|:---:|:---:|
+| Advanced State Management & Riverpod | Mobile Engineering | In Progress |
+| Automated CI/CD Pipelines with GitHub Actions | DevOps & Automation | In Progress |
+| Docker Containerization for Local/Prod Stacks | DevOps | In Progress |
+| Redis In-Memory Caching & Session Stores | Backend Performance | In Progress |
+| Microservices & Domain-Driven Design (DDD) | System Architecture | Learning |
 
 ---
 
 <div align="center">
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoeunRaksa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E5E7EB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdksaiful30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoeunRaksa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=HoeunRaksa&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=EC4899&currStreakLabel=A78BFA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdksaiful30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HoeunRaksa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=EC4899"/>
+<img src="https://streak-stats.demolab.com?user=mdksaiful30&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=EC4899&currStreakLabel=A78BFA" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdksaiful30&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=EC4899" alt="Activity Graph" />
 
 </div>
 
@@ -295,9 +256,9 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 <div align="center">
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=HoeunRaksa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mdksaiful30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Trophies" />
 
 </div>
 
@@ -305,43 +266,43 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 <div align="center">
 
-## Learning Journey
+## 📚 Technical Breakdown
 
 </div>
 
 <details>
-<summary><b>Mobile Development</b></summary>
+<summary><b>Backend Architecture (Laravel & PHP)</b></summary>
 
 <br/>
 
-`Flutter` `Dart` `Provider` `Riverpod` `GoRouter` `Dio` `SharedPreferences` `Cached Network Image` `Image Picker` `Responsive UI` `Animation` `Payment Flow` `Cart & Checkout` `API Integration` `Local Storage` `Token Storage`
+`Laravel 10/11` `PHP 8.x` `Laravel Sanctum` `RESTful API Architecture` `Eloquent ORM` `Database Migrations` `Seeders & Factories` `Service & Repository Patterns` `Middleware Pipeline` `Authentication & Authorization` `MySQL Optimization`
 
 </details>
 
 <details>
-<summary><b>Backend Development</b></summary>
+<summary><b>Frontend Systems (Vue.js & Tailwind)</b></summary>
 
 <br/>
 
-`Spring Boot` `Java` `Spring Security` `JWT` `Email OTP` `REST API` `Laravel` `Laravel Sanctum` `ASP.NET Core` `C#` `Entity Framework Core` `File Upload` `Pagination` `MySQL` `SQL Server`
+`Vue 3` `Composition API` `Tailwind CSS` `Vite` `Axios` `Single Page Applications (SPA)` `Component-Driven Architecture` `Reactive State` `Responsive UI/UX`
 
 </details>
 
 <details>
-<summary><b>Frontend Development</b></summary>
+<summary><b>Mobile Development (Flutter & Dart)</b></summary>
 
 <br/>
 
-`ReactJS` `TailwindCSS` `JavaScript` `HTML` `CSS` `Dashboard UI` `Admin Panels` `API Integration` `Responsive Layouts`
+`Flutter SDK` `Dart` `Provider` `Dio Client` `JSON Serialization` `Custom Widgets` `Async Programming` `Shared Preferences` `Responsive Layouts` `Cross-Platform Deployment`
 
 </details>
 
 <details>
-<summary><b>Database & Architecture</b></summary>
+<summary><b>Database & DevOps Tooling</b></summary>
 
 <br/>
 
-`MySQL` `SQL Server` `Database Design` `Relationships` `Query Optimization` `DTO Structure` `Clean Architecture` `Feature-first Architecture` `Repository & Service Layers` `System Design`
+`MySQL Workbench` `Laragon Environment` `Git Version Control` `GitHub Repositories` `Postman API Testing` `VS Code Workflows` `Android Studio Emulator`
 
 </details>
 
@@ -349,36 +310,10 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 <div align="center">
 
-## Goals
+## 📬 Connect With Me
 
-</div>
-
-| Goal | Status |
-|:---|:---:|
-| Become a strong Flutter Mobile Developer | In Progress |
-| Improve Spring Boot backend development | In Progress |
-| Build full-stack mobile applications | In Progress |
-| Improve clean architecture and system design | In Progress |
-| Learn Docker, Redis, Kafka, and Microservices | Learning |
-| Improve CI/CD with GitHub Actions | Learning |
-| Build production-level projects | Goal |
-| Create a strong GitHub portfolio | Goal |
-| Contribute to open-source projects | Goal |
-
----
-
-<div align="center">
-
-## Contact
-
-<a href="mailto:hoeunraksa012@gmail.com">
-<img src="https://img.shields.io/badge/Email-hoeunraksa012%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/HoeunRaksa">
-<img src="https://img.shields.io/badge/GitHub-HoeunRaksa-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/mdksaiful30">
+<img src="https://img.shields.io/badge/GitHub-mdksaiful30-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 </div>
@@ -387,9 +322,9 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 <div align="center">
 
-## Personal Motto
+## 💡 Motto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Consistency+beats+motivation.;Keep+learning.;Keep+building.;Keep+improving.;Small+steps+every+day+create+big+results." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Consistency+beats+motivation.;Keep+learning.;Keep+building.;Keep+improving.;Small+steps+every+day+create+big+results." alt="Motto" />
 
 </div>
 
@@ -399,6 +334,6 @@ I enjoy working on real-world projects that include authentication, REST API int
 
 *Thank you for visiting my profile.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:0EA5E9&height=160&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Improving&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:0EA5E9&height=160&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Improving&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer Banner" />
 
 </div>
