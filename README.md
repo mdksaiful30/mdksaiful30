@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20Flutter&descAlignY=56&descSize=17&descColor=F8FAFC" alt="Header Banner" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20Laravel%20%20%7C%20Vue%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=17&descColor=F8FAFC" />
 
 </div>
 
