@@ -28,11 +28,12 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## 👨‍💻 About Me
 
 </div>
+<div align="left">
 
 ```text
 Name        : Md. Kamruzzaman
@@ -47,6 +48,7 @@ I am a results-oriented **Full-Stack Software Engineer** specializing in modern 
 Whether designing relational database schemas, engineering secure authentication flows, or integrating high-throughput REST APIs, I emphasize clean architecture, maintainability, and end-user performance.
 
 ---
+</div>
 
 <div align="center">
 
