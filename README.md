@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hoeun+Raksa;Flutter+Mobile+Application+Developer;Spring+Boot+Backend+Developer;Full-Stack+Mobile+Developer;Building+real-world+applications+with+clean+architecture;Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+MD.+KAMRUZZAMAN;Full-Stack+Mobile+Developer;Flutter+Mobile+Application+Developer;Laravel+Backend+Developer;Vue+Tailwind+Developer;Building+real-world+applications+with+clean+architecture;Always+learning+%E2%80%A2+Always+building+%E2%80%A2+Always+improving" />
 
 </div>
 
