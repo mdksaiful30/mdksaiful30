@@ -30,7 +30,14 @@
 
 </div>
 
----
+```text
+Name        : Hoeun Raksa
+Focus       : Mobile Application Development
+Main Stack  : Flutter, Dart, Spring Boot, Java, Laravel, MySQL
+Interest    : Full-Stack Mobile Development, REST APIs, Clean Architecture
+Goal        : Build scalable, reliable, and user-friendly applications
+```
+
 
 Name        : Md. Kamruzzaman
 Focus       : Full-Stack Web & Mobile Application Development
