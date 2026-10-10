@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20Laravel%20%20%7C%20VUE%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=17&descColor=F8FAFC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=260&section=header&text=MD.%20KAMRUZZAMAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20Laravel%20%20%7C%20Vue%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=17&descColor=F8FAFC" />
 
 </div>
 
@@ -31,13 +31,12 @@
 
 </div>
 
-```text
-Name        : Hoeun Raksa
-Focus       : Mobile Application Development
-Main Stack  : Flutter, Dart, Spring Boot, Java, Laravel, MySQL
-Interest    : Full-Stack Mobile Development, REST APIs, Clean Architecture
-Goal        : Build scalable, reliable, and user-friendly applications
-```
+
+Name        : Md. Kamruzzaman
+Focus       : Full-Stack Web & Mobile Application Development
+Main Stack  : Laravel, PHP, Vue.js, Tailwind CSS, Flutter, Dart, MySQL
+Interest    : RESTful API Architecture, Clean Architecture, Reactive Frontends
+Goal        : Build scalable, reliable, and user-centric software solutions
 
 I am a passionate **Mobile App Developer** with a strong interest in **full-stack application development**.  
 My main focus is building modern mobile applications using **Flutter**, while also developing backend systems with **Spring Boot**, **Laravel**, and **ASP.NET Core**.
