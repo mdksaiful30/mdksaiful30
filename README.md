@@ -1,5 +1,3 @@
-please rectify below code and provid me README.md file
-
 <!-- GitHub Profile README -->
 
 <div align="center">
