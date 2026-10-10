@@ -259,7 +259,6 @@ Whether designing relational database schemas, engineering secure authentication
 </div>
 
 ---
-
 <div align="center">
 
 ## 🏆 GitHub Trophies
